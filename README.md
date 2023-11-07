@@ -1,4 +1,5 @@
-# Youtube-analytics
+# YouTube Analysis Project by Trend Wave Analytics![image](https://github.com/vrushabh07/Youtube-analytics/assets/85504424/22184bdd-79f9-4351-96b1-9499e0db43cf)
+
 Project Overview:
 This project entails the development of an extensive data analysis system focused on
 YouTube trending content, utilizing a range of Amazon Web Services (AWS) resources
